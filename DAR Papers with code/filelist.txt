@@ -1,0 +1,11 @@
+filelist.txt
+[with code] 2018 A context-based Approach for DA Recognition using Simple RNN.pdf
+[with code] 2018 Improved Dynamic Memory Network for DA classification.pdf
+[with code] 2019 Contextual DA classification for open-domain conversatioal agents.pdf
+[with code] 2019 Dialogue Act Classification in Group Chats with DAG-LSTMs.pdf
+[with code] 2019 Dialogue Act Classification with Context-Aware Self-Attention ALREADY TESTED.pdf
+[with code] 2020 Speaker-change Aware CRF for Dialogue Act Classification.pdf
+[with code] 2021 Handling class imbalance in low-resource dialogue systems.pdf
+[with code] 2021 Speaker Turn Modeling for DAC.pdf
+[with code] 2022 Speaker and Time-aware Joint Contextual Learning for DAC.pdf
+[with code] 2022 Universality-Individuality Integration Model for DAC.pdf
